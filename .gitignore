@@ -1,0 +1,5 @@
+# Ignore files with no suffix
+*.
+
+# Ignore all .out files
+*.out
